@@ -1,6 +1,6 @@
-# Cookbook
+# Our Journey
 
-Recipes I've Tried
+Stuff that Bethany and Vince have done.
 
 ## Development Environment
 
@@ -49,5 +49,5 @@ Open the [onebox](https://github.com/VincentSaelzler/onebox]) repo in a separate
 Pull changes, and build the site.
 ```sh
 cd ansible/
-ans 6.0-ct-cookbook.yml
+ans 7.0-ct-our-journey.yml
 ```
