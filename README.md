@@ -29,6 +29,9 @@ Only run this command once, to create a brand new website.
 jekyll new website
 ```
 
+A few tweaks are required to migrate from the default theme to the one this site uses. See [quick start guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#starting-from-jekyll-new)
+```
+
 When creating new containers, run this command each time. It cannot (easily) be part of the Dockerfile because the dev containers extension hasn't yet created the bind mount to the code repo, so the Gemfile doesn't exist in the container yet.
 ```sh
 bundle install
