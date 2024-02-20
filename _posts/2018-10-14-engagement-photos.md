@@ -1,7 +1,9 @@
 ---
 layout: single
 title:  "Engagement Photos"
+excerpt: "Falling in love, caught on camera."
 ---
+Falling in love, caught on camera.
 <figure>
 	<a href="/assets/images/engagement-church-stairs.jpg"><img src="/assets/images/engagement-church-stairs.jpg"></a>
 	<a href="/assets/images/engagement-city-kiss.jpg"><img src="/assets/images/engagement-city-kiss.jpg"></a>
